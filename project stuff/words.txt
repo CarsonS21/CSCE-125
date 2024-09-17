@@ -1,0 +1,6 @@
+long
+computer
+short
+manic
+fumble
+chicken
